@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 2 root root   284 May 30 02:49 .
+drwxr-xr-x 7 root root   172 May 30 01:38 ..
+-rwxrwxrwx 1 root root    33 May 30 01:48 0-hello_world
+-rwxrwxrwx 1 root root    29 May 30 02:21 1-confused_smiley
+-rw------- 1 root root 12288 May 30 02:00 .1-confused_smiley.swp
+-rwxrwxrwx 1 root root    29 May 30 02:30 2-hellofile
+-rwxrwxrwx 1 root root    40 May 30 02:32 3-twofiles
+-rwxrwxrwx 1 root root    31 May 30 02:39 4-lastlines
+-rwxrwxrwx 1 root root    30 May 30 02:40 5-firstlines
+-rwxrwxrwx 1 root root    47 May 30 02:44 6-third_line
+-rwxrwxrwx 1 root root    89 May 30 02:47 7-file
+-rwxrwxrwx 1 root root    37 May 30 02:49 8-cwd_state
+-rw-r--r-- 1 root root    17 May 30 02:47 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root     0 May 30 02:49 ls_cwd_content
